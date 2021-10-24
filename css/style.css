@@ -1,0 +1,11 @@
+.box {
+    height: 150px;
+    background-color: rosybrown;
+    border: 1px solid black;
+}
+
+.boxlg {
+    padding: 5px;
+    background-color: rosybrown;
+    border: 1px solid black;
+}
